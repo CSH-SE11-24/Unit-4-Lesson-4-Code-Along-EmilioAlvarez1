@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #00dbaf;
+}
+
+#red {
+  color: red;
+}
+
+#orange {
+  color: orange;
+}
+
+#yellow {
+  color: yellow;
+}
+
+#Green{
+  color: green;
+}
+
+#Blue {
+  color: Blue;
+}
+
+#Indigo {
+  color: indigo;
+}
+
+#Violet {
+  color: violet;
+}
+
+.color {
+  color: red;
+}
+
+#img {
+  height: 80%;
+  width: 80%;
+  margin-left: 18vw;
+}
+
+.IMG {
+  height: 30%;
+  width: 30%;
+}
